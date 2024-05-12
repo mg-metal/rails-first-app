@@ -1,7 +1,7 @@
 databases:
   - name: rails-first-app_DB
-    databaseName: rails-first-app_db
-    user: rails-first-app
+    databaseName: rails_first_app_db
+    user: rails_first_app_db_user
     region: singapore
 
 services:
